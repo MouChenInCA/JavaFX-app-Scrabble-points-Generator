@@ -2,4 +2,4 @@
  
 ## Preview
 Start interface
-![](mdPics/start_interface.png)
+![](mdPics/scrabble.png)
